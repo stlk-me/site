@@ -1,9 +1,9 @@
-# 🦸 BetaHero
+# 📸 Stlk.me
 
 <img src="lighthouse-score.png" align="right"
-     alt="BetaHero Lighthouse Score" width="100" height="358">
+     alt="Stlk.me Lighthouse Score" width="100" height="358">
 
-**BetaHero** is based of a free and open-source template using **Astro + Tailwind CSS**.
+**Stlk.me** is based of a free and open-source template using **Astro + Tailwind CSS**.
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="./screenshot.png" alt="BetaHero Theme Screenshot">
+<img src="./screenshot.png" alt="Stlk.me Theme Screenshot">
 
 <br>
 
@@ -231,4 +231,4 @@ That would be very useful for all of us and we would be happy to listen and take
 
 ## License
 
-**BetaHero** is licensed under MIT — see the [LICENSE](https://github.com/betahero-org/site/blob/main/LICENSE.md) file for details.
+**Stlk.me** is licensed under MIT — see the [LICENSE](https://github.com/stlk-me/site/blob/main/LICENSE.md) file for details.
