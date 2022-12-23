@@ -1,0 +1,13 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import { SITE } from '~/config.mjs';
+import Mission from '~/components/widgets/Mission.astro';
+import Board from '~/components/widgets/Board.astro';
+
+const title = `About — ${SITE.name}`;
+---
+
+<Layout meta={{ title }}>
+	<Mission />
+	<Board />
+</Layout>
