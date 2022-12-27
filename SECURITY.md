@@ -1,6 +1,6 @@
 ## Security Policy
 
-BetaHero takes the security of our software products and services seriously, including all of the open source code repositories managed through our organizations, such as [BetaHero](https://github.com/betahero-org).
+BetaHero takes the security of our software products and services seriously, including all of the open source code repositories managed through our organizations, such as [Stlk.me](https://github.com/stlk-me).
 
 Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
 
