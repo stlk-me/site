@@ -10,7 +10,7 @@ module.exports = {
 				secondary: colors.teal,
 			},
 			fontFamily: {
-				sans: ["'InterVariable'", ...defaultTheme.fontFamily.sans],
+				mono: ["'Space+Mono'", ...defaultTheme.fontFamily.sans],
 			},
 		},
 	},
